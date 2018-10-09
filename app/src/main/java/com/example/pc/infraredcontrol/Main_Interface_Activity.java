@@ -51,5 +51,6 @@ public class Main_Interface_Activity extends AppCompatActivity {
         //in_con.get_mag(t);
     }
 
+    //github test
 
 }
